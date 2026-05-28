@@ -23,7 +23,7 @@ currently_building:
   - Task Management REST API (Node.js + MongoDB)
   - Cybersecurity Audit Report (OWASP Top 10 / DVWA)
   - Kenya Economic SQL Analysis (World Bank Dataset)
-looking_for: Freelance & Full-time opportunities
+ready_for: Part-time & Full-time opportunities
 ```
 
 ---
